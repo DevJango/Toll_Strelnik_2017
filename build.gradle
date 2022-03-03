@@ -29,3 +29,8 @@ project(':tracker-core') {
     }
 }
 
+project(':server-ui') {
+    dependencies {
+        compile project(':common')
+    }
+}
