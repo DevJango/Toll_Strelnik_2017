@@ -1,4 +1,4 @@
-package jdev;
+package jdev.dto;
 
 
 import com.fasterxml.jackson.databind.ObjectMapper;

@@ -1,4 +1,4 @@
-package jdev;
+package jdev.dto;
 
 
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -8,7 +8,7 @@ import static junit.framework.TestCase.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 /*
- * Created by Strelnik on 03.03.2022.
+ * Created by Strelnik on 02.03.2022.
  */
 public class PointDTOTest {
 
